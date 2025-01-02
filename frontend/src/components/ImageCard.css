@@ -1,0 +1,17 @@
+.image-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  overflow: hidden;
+  margin: 0.5rem;
+  background-color: #fff;
+}
+
+.image-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.image-card__info {
+  padding: 0.5rem;
+}

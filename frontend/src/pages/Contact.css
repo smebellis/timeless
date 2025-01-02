@@ -1,0 +1,27 @@
+.contact {
+  padding: 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.contact-form label {
+  font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+.contact-status {
+  margin-bottom: 1rem;
+  font-weight: bold;
+  color: green;
+}
