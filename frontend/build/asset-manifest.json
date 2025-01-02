@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/timeless/static/css/main.247bf8bf.css",
+    "main.js": "/timeless/static/js/main.5eb11494.js",
+    "index.html": "/timeless/index.html",
+    "main.247bf8bf.css.map": "/timeless/static/css/main.247bf8bf.css.map",
+    "main.5eb11494.js.map": "/timeless/static/js/main.5eb11494.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.247bf8bf.css",
+    "static/js/main.5eb11494.js"
+  ]
+}
